@@ -17,3 +17,7 @@ A collection of awesome Flextype plugins, articles, resources and shiny things.
 ### Community
 - [Discord](https://flextype.org/en/discord) - Got a question about setting up or using Flextype? We'll do our best to help you out. Also here you may start discussions about core, plugin and themes development.
 - [Twitter](https://twitter.com/getflextype) - Follow Flextype on Twitter to get real-time news regarding the development and all events we are attending.
+- [Vkontakte](https://vk.com/flextype) - Russian Flextype Community!
+
+### Publications
+- [Flextype Review](https://www.cmscritic.com/flextype-review/)
