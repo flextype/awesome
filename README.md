@@ -24,6 +24,7 @@ A collection of awesome Flextype plugins, articles, resources and shiny things.
 - [Vkontakte](https://vk.com/flextype) - Russian Flextype Community!
 
 ### Publications
+- [Flextype in the gallery of awesome websites built with Tailwind CSS framework.](https://builtwithtailwind.com/site/flextype)
 - [Flextype - A New Flat File CMS has been Released](https://www.cmscritic.com/flextype-a-new-flat-file-cms-has-been-released/) by Mike Johnston (CMS Criric)
 - [Flextype Review](https://www.cmscritic.com/flextype-review/) by Mike Johnston (CMS Criric)
 - [12 Best CMS for 2019](https://www.webdesignerdepot.com/2019/08/12-best-cms-for-2019/) by Ezequiel Bruni (Web Designer Depot)
