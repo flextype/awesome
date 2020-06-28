@@ -23,3 +23,4 @@ A collection of awesome Flextype plugins, articles, resources and shiny things.
 - [Flextype Review](https://www.cmscritic.com/flextype-review/) by Mike Johnston (CMS Criric)
 - [12 Best CMS for 2019](https://www.webdesignerdepot.com/2019/08/12-best-cms-for-2019/) by Ezequiel Bruni (Web Designer Depot)
 - [8 Best CMS for 2020](https://www.webdesignerdepot.com/2020/05/8-best-cms-for-2020/) by Natasha Colyer (Web Designer Depot)
+- [WordPress alternatives: 12 best flat file CMS](https://blog.ssdnodes.com/blog/flat-file-wordpress-alternatives/) by Joel Hans (Serverwise)
