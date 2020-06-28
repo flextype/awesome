@@ -6,9 +6,14 @@ A collection of awesome Flextype plugins, articles, resources and shiny things.
 ### Contents
 
 - [Official Links](#official-links)
+- [Community](#community)
 
 ### Official Links
 - **Website** - [flextype.org](https://flextype.org)
 - **Documentation** - [docs.flextype.org](docs.flextype.org)
 - **Sponsors** - [flextype.org/en/sponsors](https://flextype.org/en/sponsors)
 - **Repository** - [github.com/flextype/flextype](https://github.com/flextype/flextype)
+
+### Community
+- [Discord](https://flextype.org/en/discord) - Got a question about setting up or using Flextype? We'll do our best to help you out. Also here you may start discussions about core, plugin and themes development.
+- [Twitter](https://twitter.com/getflextype) - Follow Flextype on Twitter to get real-time news regarding the development and all events we are attending.
