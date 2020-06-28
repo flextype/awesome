@@ -15,6 +15,7 @@ A collection of awesome Flextype plugins, articles, resources and shiny things.
 - **Documentation** - [docs.flextype.org](docs.flextype.org)
 - **Sponsors** - [flextype.org/en/sponsors](https://flextype.org/en/sponsors)
 - **Repository** - [github.com/flextype/flextype](https://github.com/flextype/flextype)
+- **International Translator Team** - [flextype.org/en/international-translator-team](https://flextype.org/en/international-translator-team)
 
 ### Community
 - [Discord](https://flextype.org/en/discord) - Got a question about setting up or using Flextype? We'll do our best to help you out. Also here you may start discussions about core, plugin and themes development.
