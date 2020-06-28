@@ -20,4 +20,4 @@ A collection of awesome Flextype plugins, articles, resources and shiny things.
 - [Vkontakte](https://vk.com/flextype) - Russian Flextype Community!
 
 ### Publications
-- [Flextype Review](https://www.cmscritic.com/flextype-review/)
+- [Flextype Review](https://www.cmscritic.com/flextype-review/) by Mike Johnston (CMS Criric)
