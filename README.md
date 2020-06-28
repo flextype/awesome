@@ -9,7 +9,7 @@ A collection of awesome Flextype plugins, articles, resources and shiny things.
 - [Official Links](#official-links)
 - [Community](#community)
 - [Publications](#publications)
-- [Extend](#extnd)
+- [Extend](#exetnd)
 
 ### Official Links
 - **Website** - [flextype.org](https://flextype.org)
