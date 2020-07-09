@@ -33,5 +33,5 @@ A collection of awesome Flextype plugins, articles, resources and shiny things.
 - [WordPress alternatives: 12 best flat file CMS](https://blog.ssdnodes.com/blog/flat-file-wordpress-alternatives/) by Joel Hans (Serverwise)
 
 ### Extend
-- [Plugins](https://github.com/flextype-plugins)
-- [Themes](https://github.com/flextype-themes)
+- [Plugins](https://flextype.org/en/downloads/extend/plugins)
+- [Themes](https://flextype.org/en/downloads/extend/themes)
