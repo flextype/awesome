@@ -2,7 +2,7 @@
 # Awesome Flextype
 A collection of awesome Flextype plugins, articles, resources and shiny things.
 
-[Flextype](https://flextype.org) is an open-source self-hosted Data-First Headless CMS & API. It is was founded in March 2018 as lightweight alternative to other heavy and outdated CMS. Many people use complex solutions for simple pages, unnecessarily. Building this content management system, we focused on simplicity - even novice webmaster adapt his template and writes his own plugin. To achieve this, we implemented a simple but powerful API's.
+[Flextype](https://flextype.org) is an open-source Hybrid Content Management System with the freedom of a headless CMS and with the full functionality of a traditional CMS.
 
 ## Contents
 
