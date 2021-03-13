@@ -13,10 +13,10 @@ A collection of awesome Flextype plugins, articles, resources and shiny things.
 
 ### Official Links
 - **Website** - [flextype.org](https://flextype.org)
-- **Documentation** - [docs.flextype.org](docs.flextype.org)
-- **Sponsors** - [flextype.org/en/sponsors](https://flextype.org/en/sponsors)
+- **Documentation** - [flextype.org/documentation](https://flextype.org/documentation)
+- **Sponsors** - [flextype.org/sponsors](https://flextype.org/sponsors)
 - **Repository** - [github.com/flextype/flextype](https://github.com/flextype/flextype)
-- **International Translator Team** - [flextype.org/en/international-translator-team](https://flextype.org/en/international-translator-team)
+- **International Translator Team** - [flextype.org/international-translator-team](https://flextype.org/en/international-translator-team)
 
 ### Community
 - [Discord](https://flextype.org/en/discord) - Got a question about setting up or using Flextype? We'll do our best to help you out. Also here you may start discussions about core, plugin and themes development.
