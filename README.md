@@ -16,7 +16,7 @@ A collection of awesome Flextype plugins, articles, resources and shiny things.
 - **Documentation** - [flextype.org/documentation](https://flextype.org/documentation)
 - **Sponsors** - [flextype.org/sponsors](https://flextype.org/sponsors)
 - **Repository** - [github.com/flextype/flextype](https://github.com/flextype/flextype)
-- **International Translator Team** - [flextype.org/international-translator-team](https://flextype.org/en/international-translator-team)
+- **International Translator Team** - [flextype.org/international-translator-team](https://flextype.org/international-translator-team)
 
 ### Community
 - [Discord](https://flextype.org/en/discord) - Got a question about setting up or using Flextype? We'll do our best to help you out. Also here you may start discussions about core, plugin and themes development.
@@ -38,5 +38,5 @@ A collection of awesome Flextype plugins, articles, resources and shiny things.
 - [Flextype – headless content management system with the full functionality of a traditional CMS](https://www.linuxlinks.com/flextype-headless-content-management-system/) by LinuxLinks
 
 ### Extend
-- [Plugins](https://flextype.org/en/downloads/extend/plugins)
-- [Themes](https://flextype.org/en/downloads/extend/themes)
+- [Plugins](https://flextype.org/downloads/extend/plugins)
+- [Themes](https://flextype.org/downloads/extend/themes)
