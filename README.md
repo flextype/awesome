@@ -24,14 +24,14 @@ A collection of awesome Flextype plugins, articles, resources and shiny things.
 - [Vkontakte](https://vk.com/flextype) - Russian Flextype Community!
 
 ### Publications
-#### 2019
-- [12 Best CMS for 2019](https://www.webdesignerdepot.com/2019/08/12-best-cms-for-2019/) by Ezequiel Bruni (Web Designer Depot)
-- [Flextype - A New Flat File CMS has been Released](https://www.cmscritic.com/flextype-a-new-flat-file-cms-has-been-released/) by Mike Johnston (CMS Criric)
-- [Flextype Review](https://www.cmscritic.com/flextype-review/) by Mike Johnston (CMS Criric)
-- [WordPress alternatives: 12 best flat file CMS](https://blog.ssdnodes.com/blog/flat-file-wordpress-alternatives/) by Joel Hans (Serverwise)
 #### 2020
 - [Top 10 des CMS gratuits pour 2020](https://www.blogduwebdesign.com/meilleurs-cms/) by Fabien Berthoux (Blog Du Webdesig)
 - [8 Best CMS for 2020](https://www.webdesignerdepot.com/2020/05/8-best-cms-for-2020/) by Natasha Colyer (Web Designer Depot)
+#### 2019
+- [12 Best CMS for 2019](https://www.webdesignerdepot.com/2019/08/12-best-cms-for-2019/) by Ezequiel Bruni (Web Designer Depot)
+- [WordPress alternatives: 12 best flat file CMS](https://blog.ssdnodes.com/blog/flat-file-wordpress-alternatives/) by Joel Hans (Serverwise)
+- [Flextype - A New Flat File CMS has been Released](https://www.cmscritic.com/flextype-a-new-flat-file-cms-has-been-released/) by Mike Johnston (CMS Criric)
+- [Flextype Review](https://www.cmscritic.com/flextype-review/) by Mike Johnston (CMS Criric)
 #### Other
 - [Flextype in the list of Content Management Systems for Jamstack Sites](https://headlesscms.org/projects/flextype/)
 - [Flextype in the gallery of awesome websites built with Tailwind CSS framework.](https://builtwithtailwind.com/site/flextype)
