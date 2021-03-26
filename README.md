@@ -28,6 +28,7 @@ A collection of awesome Flextype plugins, articles, resources and shiny things.
 - [Top 10 des CMS gratuits pour 2020](https://www.blogduwebdesign.com/meilleurs-cms/) by Fabien Berthoux (Blog Du Webdesig)
 - [8 Best CMS for 2020](https://www.webdesignerdepot.com/2020/05/8-best-cms-for-2020/) by Natasha Colyer (Web Designer Depot)
 - [Flextype, Hybrid Content Management System](https://phpmagazine.net/2020/09/flextype-hybrid-content-management-system.html) by Hatem Ben Yacoub (PHP Magazine)
+- [TOP 5 GERENCIADORES DE CONTEÚDO sem BANCO DE DADOS - Flat-file CMS](https://youtu.be/Y_maRBZjV4w) by Reinaldo Silotto (TekZoom) 
 - [5 удобных flat-file CMS](https://listolog.com/2020/05/5-%D1%83%D0%B4%D0%BE%D0%B1%D0%BD%D1%8B%D1%85-flat-file-cms/) by LISTOLOG (RU)
 - [8 лучших CMS: как с этим делом на Западе?](https://reconcept.ru/blog/8-lucsih-cms-kak-s-etim-delom-na-zapade) by Reconcept (RU)
 #### 2019
