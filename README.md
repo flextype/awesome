@@ -31,6 +31,8 @@ A collection of awesome Flextype plugins, articles, resources and shiny things.
 - [TOP 5 GERENCIADORES DE CONTEÚDO sem BANCO DE DADOS - Flat-file CMS](https://youtu.be/Y_maRBZjV4w) by Reinaldo Silotto (TekZoom) 
 - [5 удобных flat-file CMS](https://listolog.com/2020/05/5-%D1%83%D0%B4%D0%BE%D0%B1%D0%BD%D1%8B%D1%85-flat-file-cms/) by LISTOLOG (RU)
 - [8 лучших CMS: как с этим делом на Западе?](https://reconcept.ru/blog/8-lucsih-cms-kak-s-etim-delom-na-zapade) by Reconcept (RU)
+- [8 найкращих CMS на 2020 рік](https://uaspectr.com/2020/05/18/8-najkrashhyh-cms-na-2020/) by UASpectr (UA)
+- [8 Meilleure CMS pour 2020](https://lab.dev-code.fr/8-meilleure-cms-pour-2020/) by Reconcept (FR)
 #### 2019
 - [12 Best CMS for 2019](https://www.webdesignerdepot.com/2019/08/12-best-cms-for-2019/) by Ezequiel Bruni (Web Designer Depot)
 - [WordPress alternatives: 12 best flat file CMS](https://blog.ssdnodes.com/blog/flat-file-wordpress-alternatives/) by Joel Hans (Serverwise)
