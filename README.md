@@ -2,7 +2,7 @@
 # Awesome Flextype
 A collection of awesome Flextype plugins, articles, resources and shiny things.
 
-[Flextype](https://awilum.github.io/flextype/) is an open-source Hybrid Content Management System with the freedom of a headless CMS and with the full functionality of a traditional CMS.
+[Flextype](https://awilum.github.io/flextype) is an open-source Hybrid Content Management System with the freedom of a headless CMS and with the full functionality of a traditional CMS.
 
 ## Contents
 
@@ -12,7 +12,7 @@ A collection of awesome Flextype plugins, articles, resources and shiny things.
 - [Extend](#extend)
 
 ### Official Links
-- **Website** - [https://awilum.github.io/flextype/](https://awilum.github.io/flextype/)
+- **Website** - [https://awilum.github.io/flextype/](https://awilum.github.io/flextype)
 - **Documentation** - [https://awilum.github.io/flextype/documentation](https://awilum.github.io/flextype/documentation)
 - **Repository** - [github.com/flextype/flextype](https://github.com/flextype/flextype)
 
