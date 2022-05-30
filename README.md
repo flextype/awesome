@@ -2,7 +2,7 @@
 # Awesome Flextype
 A collection of awesome Flextype plugins, articles, resources and shiny things.
 
-[Flextype](https://flextype.org) is an open-source Hybrid Content Management System with the freedom of a headless CMS and with the full functionality of a traditional CMS.
+[Flextype](https://awilum.github.io/flextype/) is an open-source Hybrid Content Management System with the freedom of a headless CMS and with the full functionality of a traditional CMS.
 
 ## Contents
 
@@ -12,16 +12,14 @@ A collection of awesome Flextype plugins, articles, resources and shiny things.
 - [Extend](#extend)
 
 ### Official Links
-- **Website** - [flextype.org](https://flextype.org)
-- **Documentation** - [flextype.org/documentation](https://flextype.org/documentation)
-- **Sponsors** - [flextype.org/sponsors](https://flextype.org/sponsors)
+- **Website** - [https://awilum.github.io/flextype/](https://awilum.github.io/flextype/)
+- **Documentation** - [https://awilum.github.io/flextype/documentation](https://awilum.github.io/flextype/documentation)
 - **Repository** - [github.com/flextype/flextype](https://github.com/flextype/flextype)
-- **International Translator Team** - [flextype.org/international-translator-team](https://flextype.org/international-translator-team)
 
 ### Community
-- [Discord](https://flextype.org/en/discord) - Got a question about setting up or using Flextype? We'll do our best to help you out. Also here you may start discussions about core, plugin and themes development.
+- [Discord](https://discord.gg/CCKPKVG) - Got a question about setting up or using Flextype? We'll do our best to help you out. Also here you may start discussions about core, plugin and themes development.
 - [Twitter](https://twitter.com/getflextype) - Follow Flextype on Twitter to get real-time news regarding the development and all events we are attending.
-- [Vkontakte](https://vk.com/flextype) - Russian Flextype Community!
+
 
 ### Publications
 #### 2020
@@ -42,7 +40,3 @@ A collection of awesome Flextype plugins, articles, resources and shiny things.
 - [Flextype in the list of Content Management Systems for Jamstack Sites](https://headlesscms.org/projects/flextype/)
 - [Flextype in the gallery of awesome websites built with Tailwind CSS framework.](https://builtwithtailwind.com/site/flextype)
 - [Flextype – headless content management system with the full functionality of a traditional CMS](https://www.linuxlinks.com/flextype-headless-content-management-system/) by LinuxLinks
-
-### Extend
-- [Plugins](https://flextype.org/downloads/extend/plugins)
-- [Themes](https://flextype.org/downloads/extend/themes)
